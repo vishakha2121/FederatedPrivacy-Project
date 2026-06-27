@@ -191,36 +191,6 @@ __pycache__/
 *.py[cod]
 venv/
 env/
-*.sqlite3
-*.db
-.pytest_cache/
-*.log
-
-# Node
-node_modules/
-dist/
-build/
-.DS_Store
-
-# Environment
-.env
-.env.local
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-Thumbs.db
-.DS_Store
-"@
-
-$gitignoreContent | Out-File -FilePath .gitignore -Encoding UTF8
-
-# Add and commit
-git add .gitignore
-git commit -m "Add .gitignore file"
-git push origin main
 
 
 
