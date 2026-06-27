@@ -1320,23 +1320,6 @@ Thumbs.db
 *.pem
 *.key
 *.crt
-*.p12
-
-# Data files
-*.csv
-*.xlsx
-*.parquet
-*.pickle
-*.pkl
-*.h5
-*.pb
-*.onnx
-
-# Logs
-logs/
-*.log
-
-Pipfile.lock
 
 
 
