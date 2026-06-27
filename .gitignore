@@ -1589,48 +1589,7 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 dist/
-build/
-.DS_Store
 
-# Environment Variables
-.env
-.env.local
-.env.production
-.env.development
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-Thumbs.db
-.DS_Store
-*.tmp
-
-# Docker
-*.pid
-*.pid.lock
-
-# Misc
-*.pem
-*.key
-*.crt
-*.p12
-
-# Data files
-*.csv
-*.xlsx
-*.parquet
-*.pickle
-*.pkl
-*.h5
-*.pb
-*.onnx
-
-# Logs
 
 
 
