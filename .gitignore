@@ -1631,40 +1631,6 @@ Thumbs.db
 *.onnx
 
 # Logs
-logs/
-*.log
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Model files
-models/
-*.model
-*.weights
-*.hdf5
-
-# Backup files
-*.bak
-*.backup
-
-# Temporary files
-tmp/
-temp/
-*.tmp
-
-# Test coverage
-.coverage
-htmlcov/
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
-
-
 
 
 
