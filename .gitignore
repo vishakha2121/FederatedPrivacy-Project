@@ -457,39 +457,6 @@ models/
 *.bak
 *.backup
 
-# Temporary files
-tmp/
-temp/
-*.tmp
-
-# Test coverage
-.coverage
-htmlcov/
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
-
-# Jupyter Notebooks
-.ipynb_checkpoints/
-
-# pyenv
-.python-version
-
-# pipenv
-Pipfile.lock
-
-# celery
-celerybeat-schedule
-
-# SageMath
-*.sage.py
-
-# Environments
-.env
-
 
 
 
