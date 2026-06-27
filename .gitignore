@@ -429,32 +429,7 @@ Thumbs.db
 *.p12
 
 # Data files
-*.csv
-*.xlsx
-*.parquet
-*.pickle
-*.pkl
-*.h5
-*.pb
-*.onnx
 
-# Logs
-logs/
-*.log
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Model files
-models/
-*.model
-*.weights
-*.hdf5
-
-# Backup files
-*.bak
 *.backup
 
 
