@@ -2052,37 +2052,6 @@ build/
 *.swo
 *~
 
-# OS
-Thumbs.db
-.DS_Store
-*.tmp
-
-# Docker
-*.pid
-*.pid.lock
-
-# Misc
-*.pem
-*.key
-*.crt
-*.p12
-
-# Data files
-*.csv
-*.xlsx
-*.parquet
-*.pickle
-*.pkl
-*.h5
-*.pb
-*.onnx
-
-# Logs
-logs/
-*.log
-
-# Database
-*.db
 
 
 
