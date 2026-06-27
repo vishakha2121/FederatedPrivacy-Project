@@ -1128,28 +1128,6 @@ env.bak/
 venv.bak/
 *.sqlite3
 *.db
-.pytest_cache/
-.coverage
-htmlcov/
-*.log
-*.pid
-*.lock
-
-# Node
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-dist/
-build/
-.DS_Store
-
-# Environment Variables
-.env
-.env.local
-.env.production
-.env.development
 
 
 
